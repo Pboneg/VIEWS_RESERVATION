@@ -1,0 +1,22 @@
+@media (max-width:600px) {
+  .link-dispa {
+    display: none;
+  }
+}
+
+@media (max-width:1000px) {
+  .link-dispa2 {
+    display: none;
+  }
+}
+
+.link-dispa2 .div_present {
+  padding: 0;
+  width: 100%;
+  /*border: 3px solid #2277bd;*/
+}
+
+.card_title {
+  /*margin-bottom: 20px;*/
+}
+
